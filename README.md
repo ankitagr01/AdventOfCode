@@ -34,4 +34,11 @@ My solutions for the AoC. Advent of Code is an Advent calendar of small programm
 | 02 |    00:18:23      |  7499     |    0     |    00:27:56       |  7447           |    0     |
 | 01 |    00:18:23      |  7782     |    0     |    00:22:36       |  7290           |    0     |
 
+## Leaderboard:
+
+### DFKI:
+<img src="AoC_2022_DFKI_Agrawal_Ankit.png" width="800"> 
+
+### Saarland University:
+<img src="AoC_2022_Uni_Agrawal_Ankit.png" width="800"> 
 
